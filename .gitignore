@@ -1,5 +1,12 @@
+# VS 缓存与个人配置
 .vs/
-bin/
-obj/
 *.user
-*.suo
+
+# C++ 编译产物
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
