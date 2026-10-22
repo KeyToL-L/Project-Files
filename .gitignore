@@ -1,8 +1,8 @@
-# VS 缓存与个人配置
+# VS 第二次修改
 .vs/
 *.user
 
-# C++ 编译产物
+# C++ 第二次修改
 x64/
 Debug/
 Release/
